@@ -1,0 +1,6 @@
+amount,avg_spend,credit_limit,account_age,card_type,merchant,is_fraud
+500,400,1000,12,credit,Amazon,0
+6000,700,5000,1,debit,Unknown,1
+200,150,500,24,credit,Walmart,0
+1500,1000,2000,6,credit,eBay,0
+8000,600,7000,2,debit,Unknown,1
